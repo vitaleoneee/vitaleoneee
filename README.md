@@ -28,6 +28,7 @@
 | Project                           | Description                                                      |
 | --------------------------------- | ---------------------------------------------------------------- |
 | 🚀 [English Boost](wait a bit ;)) | Django-based language learning app with spaced repetition (SRS). |
+| ⏰ [Tkinter Alarm Clock](https://github.com/vitaleoneee/tkinter-alarm-clock) | A simple alarm clock application built with Python and Tkinter. |
 
 ### 📬 Contacts
 
@@ -49,5 +50,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitaleoneee&layout=compact&theme=tokyonight&hide_border=false&langs_count=6&width=400" alt="Top Langs"/>
 </div>
-
-> > > > > > > adb9b7c (Update README.md)
