@@ -27,7 +27,7 @@
 
 | Project                           | Description                                                      |
 | --------------------------------- | ---------------------------------------------------------------- |
-| 🚀 [English Boost](wait a bit ;)) | Django-based language learning app with spaced repetition (SRS). |
+| 🚀 [English Boost]((https://github.com/vitaleoneee/english-boost))) | Django-based language learning app with spaced repetition (SRS). |
 | ⏰ [Tkinter Alarm Clock](https://github.com/vitaleoneee/tkinter-alarm-clock) | A simple alarm clock application built with Python and Tkinter. |
 
 ### 📬 Contacts
