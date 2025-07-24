@@ -28,6 +28,7 @@
 | Project                           | Description                                                      |
 | --------------------------------- | ---------------------------------------------------------------- |
 | 🚀 [English Boost](https://github.com/vitaleoneee/english-boost) | Django-based language learning app with spaced repetition (SRS). |
+| 🔒 [Password Manager](https://github.com/vitaleoneee/https://github.com/vitaleoneee/password-manager) | The desktop app is built with Python and PySide6 for secure password storage. |
 | ⏰ [Tkinter Alarm Clock](https://github.com/vitaleoneee/tkinter-alarm-clock) | A simple alarm clock application built with Python and Tkinter. |
 
 ### 📬 Contacts
