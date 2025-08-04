@@ -29,7 +29,7 @@
 | --------------------------------- | ---------------------------------------------------------------- |
 | 🚀 [English Boost](https://github.com/vitaleoneee/english-boost) | Django-based language learning app with spaced repetition (SRS). |
 | 🔒 [Password Manager](https://github.com/vitaleoneee/password-manager) | The desktop app is built with Python and PySide6 for secure password storage. |
-| 💲 [Crypto Info Telegram Bot]([https://github.com/vitaleoneee/tkinter-alarm-clock](https://github.com/vitaleoneee/crypto-info-tgbot)) | Telegram bot delivering real-time cryptocurrency data, market rankings, and customizable price alerts with support for LONG and SHORT positions. |
+| 💲 [Crypto Info Telegram Bot](https://github.com/vitaleoneee/crypto-info-tgbot) | Telegram bot delivering real-time cryptocurrency data, market rankings, and customizable price alerts with support for LONG and SHORT positions. |
 
 ### 📬 Contacts
 
